@@ -78,9 +78,7 @@
        	 	border-radius:50%;
        	}
        	
-       	.color>div>div:last-child{
-       		border:1px solid #000;   	 
-       	}
+     
        	
         footer {
             background-color: #2c3e50;
@@ -123,76 +121,76 @@
    		<div class="red color">
    			<div>
    				<div style="background: linear-gradient(red,yellow);"></div>
-   				<div>test</div>
+   				
    			</div>
    			<div>
    				<div style="background: linear-gradient(200deg,#f00 5%, #fff);"></div>
-   				<div>test</div>
+   				
    			</div>
    			<div>
-   				<div></div>
-   				<div>test</div>
+   				<div style="background: linear-gradient(#f00, #CEFBC9);"></div>
+   				
    			</div>
    			<div>
-   				<div></div>
-   				<div>test</div>
+   				<div style="background: linear-gradient(#f00,#8BBDFF);"></div>
+   			
    			</div>
    		</div>
    		<a id="yellow"></a>
    		<div class="yellow color">
    			<div>
-   				<div></div>
-   				<div>test</div>
+   				<div style="background: linear-gradient(#ff0,#6BEC62);"></div>
+   			
    			</div>
    			<div>
-   				<div></div>
-   				<div>test</div>
+   				<div style="background: linear-gradient(#ff0,#FF48FF);"></div>
+   			
    			</div>
    			<div>
-   				<div></div>
-   				<div>test</div>
+   				<div style="background: linear-gradient(#ff0,#FFBB00);"></div>
+   				
    			</div>
    			<div>
-   				<div></div>
-   				<div>test</div>
+   				<div style="background: linear-gradient(#ff0,#A566FF);"></div>
+   			
    			</div>
    		</div>
    		<a id="green"></a>
    		<div class="green color">
    			<div>
-   				<div></div>
-   				<div>test</div>
+   				<div style="background: linear-gradient(#22741C,#CEFBC9);"></div>
+   			
    			</div>
    			<div>
-   				<div></div>
-   				<div>test</div>
+   				<div style="background: linear-gradient(#CEFBC9,#B5B2FF);"></div>
+   			
    			</div>
    			<div>
-   				<div></div>
-   				<div>test</div>
+   				<div style="background: linear-gradient(#86E57F,#FFD9FA);"></div>
+   			
    			</div>
    			<div>
-   				<div></div>
-   				<div>test</div>
+   				<div style="background: linear-gradient(#86E57F,#A6A6A6);"></div>
+   				
    			</div>
    		</div>
    		<a id="blue"></a>
    		<div class="blue color"> 
    			<div>
-   				<div></div>
-   				<div>test</div>
+   				<div style="background: linear-gradient(#0054FF,#fff);"></div>
+   				
    			</div>
    			<div>
-   				<div></div>
-   				<div>test</div>
+   				<div style="background: linear-gradient(#0054FF,#FF007F);"></div>
+   			
    			</div>
    			<div>
-   				<div></div>
-   				<div>test</div>
+   				<div style="background: linear-gradient(#D4F4FA,#0054FF);"></div>
+   				
    			</div>
    			<div>
-   				<div></div>
-   				<div>test</div>
+   				<div style="background: linear-gradient(#D4F4FA,#6799FF);"></div>
+   				
    			</div>
    		</div>
    
