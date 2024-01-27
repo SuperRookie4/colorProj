@@ -40,7 +40,7 @@
 
 ### :small_orange_diamond: 🎯구현 결과
 #### 0) Home
-![image]([https://github.com/byeongseokim/Java_Team_Project/blob/master/images/0_%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4_%EB%AA%85%EB%A0%B9%EC%96%B4/0%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4%20%EB%B0%8F%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.PNG?raw=true](https://github.com/SuperRookie4/colorProj/blob/main/colorPageRes/Home.png?raw=true))
+![image]((https://github.com/SuperRookie4/colorProj/blob/main/colorPageRes/Home.png?raw=true))
 
 #### 1) colorpage1
 
