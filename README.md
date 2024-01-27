@@ -39,10 +39,10 @@
 <br><br>
 
 ### :small_orange_diamond: 🎯구현 결과
-#### 0) 시작/명령어
-![image](https://github.com/byeongseokim/Java_Team_Project/blob/master/images/0_%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4_%EB%AA%85%EB%A0%B9%EC%96%B4/0%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4%20%EB%B0%8F%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.PNG?raw=true)
+#### 0) Home
+![image]([https://github.com/byeongseokim/Java_Team_Project/blob/master/images/0_%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4_%EB%AA%85%EB%A0%B9%EC%96%B4/0%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4%20%EB%B0%8F%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.PNG?raw=true](https://github.com/SuperRookie4/colorProj/blob/main/colorPageRes/Home.png?raw=true))
 
-#### 1) 회원가입/로그인
+#### 1) colorpage1
 
 - [x] 회원가입
 
@@ -54,7 +54,7 @@
 
 <br><br>
 
-#### 2) 게시글 등록
+#### 2) colorpage2
 
 - [x] 제목
 - [x] 내용
@@ -63,7 +63,7 @@
 
 <br><br>
 
-#### 3) 게시글 상세 조회
+#### 3) colorpage3
 
 - [x] 상세 보기
 
@@ -71,7 +71,7 @@
 
 <br><br>
 
-#### 4) 게시글 리스트
+#### 4) colorpage4
 
 - [x] 리스트
 
@@ -79,29 +79,4 @@
 
 <br><br>
 
-#### 5) 게시글 수정/추천/삭제
-
-- [x] 수정
-
-![image](https://github.com/byeongseokim/Java_Team_Project/blob/master/images/5_%EC%88%98%EC%A0%95_%EC%B6%94%EC%B2%9C_%EC%82%AD%EC%A0%9C/6%EA%B2%8C%EC%8B%9C%EA%B8%80%20%EC%88%98%EC%A0%95.PNG?raw=true)
-
-- [x] 추천
-
-![image](https://github.com/byeongseokim/Java_Team_Project/blob/master/images/5_%EC%88%98%EC%A0%95_%EC%B6%94%EC%B2%9C_%EC%82%AD%EC%A0%9C/7%EC%B6%94%EC%B2%9C.PNG?raw=true))
-
-- [x] 삭제
-
-![image](https://github.com/byeongseokim/Java_Team_Project/blob/master/images/5_%EC%88%98%EC%A0%95_%EC%B6%94%EC%B2%9C_%EC%82%AD%EC%A0%9C/8%EA%B2%8C%EC%8B%9C%EA%B8%80%20%EC%82%AD%EC%A0%9C.PNG?raw=true)
-
-<br><br>
-
-#### 6) 로그아웃/게시판 종료
-
-- [x] 로그아웃
-
-![image](https://github.com/byeongseokim/Java_Team_Project/blob/master/images/6_%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83_%EA%B2%8C%EC%8B%9C%ED%8C%90_%EC%A2%85%EB%A3%8C/9%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83.PNG?raw=true)
-
-- [x] 게시판 종료
-
-![image](https://github.com/byeongseokim/Java_Team_Project/blob/master/images/6_%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83_%EA%B2%8C%EC%8B%9C%ED%8C%90_%EC%A2%85%EB%A3%8C/10%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EC%A2%85%EB%A3%8C.PNG?raw=true)
 
