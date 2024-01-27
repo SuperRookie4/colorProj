@@ -40,7 +40,7 @@
 
 ### :small_orange_diamond: 🎯구현 결과
 #### 0) Home
-![image]((https://github.com/SuperRookie4/colorProj/blob/main/colorPageRes/Home.png?raw=true))
+(./colorPageRes/Home.png)
 
 #### 1) colorpage1
 
