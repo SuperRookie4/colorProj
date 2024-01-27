@@ -1,7 +1,5 @@
 ### :small_orange_diamond: 📢 color 추천 사이트 구성하기
 
-<br><br>
-
 ### :small_orange_diamond: 🙋‍♂️팀원
 
   - <a href="https://github.com/myeongjjj" target="_blank">김명주</a>
@@ -46,20 +44,20 @@
 ![image](./colorPageRes/colorPage1(1).png)
 ![image](./colorPageRes/colorPage1(2).png)
 
-<br><br>
+<br><br><br><br>
 
 #### 2) colorpage2
 ![image](./colorPageRes/colorPage2(1).png)
 ![image](./colorPageRes/colorPage2(2).png)
 
 
-<br><br>
+<br><br><br><br>
 
 #### 3) colorpage3
 ![image](./colorPageRes/colorPage3(1).png)
 ![image](./colorPageRes/colorPage3(2).png)
 
-<br><br>
+<br><br><br><br>
 
 #### 4) colorpage4
 ![image](./colorPageRes/colorPage4(1).png)
