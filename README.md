@@ -39,7 +39,7 @@
 ### :small_orange_diamond: 🎯구현 결과
 #### 0) Home
 ![image](./colorPageRes/Home.png)
-
+<br><br><br><br>
 #### 1) colorpage1
 ![image](./colorPageRes/colorPage1(1).png)
 <br><br>
