@@ -42,14 +42,14 @@
 
 #### 1) colorpage1
 ![image](./colorPageRes/colorPage1(1).png)
-<br>
+<br><br>
 ![image](./colorPageRes/colorPage1(2).png)
 
 <br><br><br><br>
 
 #### 2) colorpage2
 ![image](./colorPageRes/colorPage2(1).png)
-<br>
+<br><br>
 ![image](./colorPageRes/colorPage2(2).png)
 
 
@@ -57,14 +57,14 @@
 
 #### 3) colorpage3
 ![image](./colorPageRes/colorPage3(1).png)
-<br>
+<br><br>
 ![image](./colorPageRes/colorPage3(2).png)
 
 <br><br><br><br>
 
 #### 4) colorpage4
 ![image](./colorPageRes/colorPage4(1).png)
-<br>
+<br><br>
 ![image](./colorPageRes/colorPage4(2).png)
 
 
